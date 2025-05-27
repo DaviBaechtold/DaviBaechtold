@@ -16,7 +16,7 @@ _Feb 2023 – Sep 2024_
 
 - **Languages:** Python (advanced), JavaScript (advanced), SQL (advanced), C/C++ (intermediate), Java (intermediate), HTML/CSS (intermediate)  
 - **Technologies:** REST APIs, Azure, AWS, ServiceNow, PCB Design, AutoCAD, SolidWorks  
-- **Other:** Object-Oriented Programming, Databases, Office Suite (advanced)
+- **Other:** Object-Oriented Programming, Databases, Office Suite (advanced), Linux
 
 ## 🤖 Projects & Leadership
 
