@@ -26,12 +26,12 @@ _Feb 2023 – Sep 2024_
 
 ## 🌍 Languages
 
-- Portuguese (C2), English (C1), Spanish (B1), German (A2)
+- Portuguese (Native Speaker), English (C1), Spanish (B1), German (A2)
 
 ## 📫 Let's Connect
 
 - 📧 [davicampos2002@gmail.com](mailto:davicampos2002@gmail.com)  
-- 🌐 [LinkedIn]((https://www.linkedin.com/in/davi-baechtold-campos-393037145/))  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/davi-baechtold-campos-393037145/) 
 - 📍 Currently in Ingolstadt, Germany  
 
 ---
