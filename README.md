@@ -1,92 +1,64 @@
-# Davi Baechtold Campos
+**Fullstack Engineer | React & Next.js | Spring Boot & Python | Sistemas Distribuídos e Tempo Real**
 
-**Computer Engineering Student | Developer | Researcher**
-
-Curitiba, Brazil | [LinkedIn](https://linkedin.com/in/davi-baechtold-campos-393037145) | davicampos2002@gmail.com
+📍 Curitiba, Brazil | 🔗 [LinkedIn](https://linkedin.com/in/davi-baechtold-campos-393037145) | 🌐 [davicampos.dev](https://davicampos.dev/) | ✉️ davicampos2002@gmail.com
 
 ---
 
-## 🎯 About
+## Sobre Mim
 
-Computer Engineering student with hands-on experience in software development, embedded systems, and robotics. Currently IT intern at CELEPAR and former research assistant at Technische Hochschule Ingolstadt, focusing on AI applications and automotive systems.
+Engenheiro Fullstack especializado na construção de sistemas distribuídos, streaming de vídeo e integrações de IA. Tenho uma base forte que vai desde o desenvolvimento web moderno até a engenharia de hardware e sistemas embarcados. 
 
+Atualmente, desenvolvo plataformas enterprise na **BeLogic**, trabalhando com arquiteturas políglotas. Sou apaixonado por resolver problemas complexos, arquitetura escalável e tecnologias que unem o mundo físico ao digital (IoT, Automação e Visão Computacional).
 
-## 🎓 Education
-
-**Computer Engineering** | PUCPR | 2020-2026
-
-**Computer Science and AI** | TH Ingolstadt (Exchange) | 2024-2025
+---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+### 💻 Linguagens & Frontend
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### Frameworks & Tools
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+### ⚙️ Backend & Mensageria
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+
+### ☁️ Infraestrutura, DevOps & Segurança
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-### Cloud & Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Keycloak](https://img.shields.io/badge/-Keycloak-EAE8E8?style=flat-square&logo=keycloak&logoColor=black)
 
-### Hardware & Embedded
+### 🤖 Hardware, IA & Visão Computacional
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-**PCB Design** | **Assembly** | **Embedded Systems**
-
-## 💼 Experience
-
-**IT Intern** | CELEPAR | Sep 2025 - Present
-- Technical support in Linux/Windows environments
-- Hardware configuration and system security
-
-**Research Assistant** | TH Ingolstadt | Sep 2024 - Aug 2025
-- Development of AI-powered automotive systems
-- Research in signal processing and sensors
-
-**Software Engineering Intern** | BRF S.A. | Feb 2023 - Sep 2024
-- Process automation with Azure and Power Platform
-- Development of image analysis systems
-
-**Manager - Autonomous Robots** | PUCPR Robotics Team | Feb 2022 - Jul 2023
-- Technical leadership in competitions (RCX, Iron Cup)
-- Development of line-following and sumo robots
-
-
-## 🚀 Featured Projects
-
-### AutoVoice - Automotive Assistant
-Portuguese voice command system for autonomous vehicles, developed on Google Dev Board (AA1). Integrates speech recognition and synthesis for hands-free control.
-
-**Tech:** Python, Speech Recognition, TTS, Embedded Systems
-
-### IMU Visualizer
-Real-time visualization tool for inertial sensor data, developed during research at TH Ingolstadt.
-
-**Tech:** Python, Data Visualization, Sensor Integration
-
-### Image Analysis System - BRF
-Automated pipeline using Azure ML and OpenAI for anomaly detection in industrial processes.
-
-**Tech:** Azure ML, OpenAI API, Power Automate, Computer Vision
-
-### Computer Vision with MediaPipe
-Real-time webcam feed processing application that recognizes hand gestures and streams to virtual camera.
-
-**Tech:** Python, MediaPipe, OpenCV, Real-time Processing
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+**ESP32** | **PCB Design** | **YOLOX / MediaPipe** | **Sistemas Embarcados**
 
 ---
 
-## 🌐 Languages
+## Experiência Profissional
 
-- **Portuguese:** Native
-- **English:** Fluent (C1)
-- **Spanish:** Intermediate (B1)
-- **German:** Basic (A2)
+* **Desenvolvedor Full Stack** | BeLogic *(Fev 2026 - Presente)*
+  * Construção de sistemas distribuídos e de tempo real. Especialista em React/Next.js no frontend e Spring Boot/Flask no backend, com integrações de IA e processamento de vídeo.
+* **Estagiário de TI** | CELEPAR *(Set 2025 - Jan 2026)*
+  * Suporte técnico, configuração de servidores Linux/Windows e infraestrutura.
+* **Assistente de Pesquisa** | Technische Hochschule Ingolstadt, Alemanha *(Set 2024 - Ago 2025)*
+  * Pesquisa em sistemas autônomos, visão computacional e desenvolvimento de sistemas automotivos orientados por IA.
+* **Cloud Analyst / Eng. de Software** | BRF S.A. *(Fev 2023 - Set 2024)*
+  * Automação de processos corporativos críticos, desenvolvimento ServiceNow (JS/Python) e integrações de API.
+* **Gestor da Equipe de Robôs Autônomos** | PUCPR Robotics *(Fev 2022 - Jul 2023)*
+  * Liderança técnica em projetos de hardware (C++/Python, PCB) que resultaram em 3 títulos nacionais.
 
+---
+
+## Educação
+* **Engenharia de Computação** | PUCPR *(2020 - 2026)*
+* **Ciência da Computação e IA (Intercâmbio)** | TH Ingolstadt, Alemanha *(2024 - 2025)*
